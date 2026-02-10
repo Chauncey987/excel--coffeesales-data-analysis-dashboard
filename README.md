@@ -37,11 +37,14 @@ All data is used for educational and portfolio purposes only.
 ---
 
 ## Analysis Process
-1. Data cleaning and preparation
-2. Creation of calculated fields
-3. Pivot table analysis
-4. Dashboard development
-5. Insight extraction
+1. Reviewed the raw dataset to understand available fields, data types, and overall structure  
+2. Cleaned and standardized the data to ensure consistency, including formatting, handling blanks, and preparing fields for analysis  
+3. Created calculated fields to support performance metrics such as revenue, quantity, and category-level summaries  
+4. Used pivot tables to analyze trends across key dimensions, including time periods, product categories, and customer segments  
+5. Designed visualizations to highlight patterns, comparisons, and outliers in the data  
+6. Built a consolidated dashboard to present key metrics and insights in a clear, stakeholder-friendly format  
+7. Reviewed results to extract actionable insights and identify potential areas for performance improvement  
+
 
 ---
 
